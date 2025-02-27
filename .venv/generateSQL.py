@@ -52,3 +52,8 @@ for visit_id in range(11, 511):
                           f"VALUES ({visit_id}, {patient_id}, {provider_id}, {community_data_id}, '{visit_date}', '{condition}');")
 
     #Save SQL script to a file path
+    sql_file_path = "C:\Users\obinn\Documents\insert_testpatient.sql"
+    with open(sql_file_path, "w") as sql_file:
+        sql_file.write("\n".join(sql_statements))
+
+    print(f"SQL file generated: {sql_file_path}")
