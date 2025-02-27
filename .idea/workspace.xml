@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7b181b90-921c-4d4b-bf2a-d3bff0e0299b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/generateCommunityData.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/generateCommunityData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
